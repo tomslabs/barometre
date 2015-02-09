@@ -1,7 +1,7 @@
 #Sails REST API on heroku app
 
-* Sailjs : http://sailsjs.org/
-* Heroku app : https://www.heroku.com/
+Sailjs : http://sailsjs.org/
+Heroku app : https://www.heroku.com/
 
 ##Pre-requis :
 * nodejs + npm cf : http://sailsjs.org/#/getStarted
@@ -10,6 +10,29 @@
 ```
 wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
 ```
+
+### Heroku usage
+* log to heroku
+```
+heroku login
+```
+* heroku help 
+```
+heroku help
+heroku 'command' -h
+```
+* open an heroku app in the browser (in an heroku app directory) :
+```
+heroku open
+```
+* To see logs on heroku
+```
+heroku logs
+```
+* To restart dyno
+```
+heroku restart
+``` 
 
 ##déroulement du dojo :
 
@@ -72,16 +95,6 @@ git push heroku master
 * open app :
 ```
 heroku open
-``` 
-
-### Heroku usage
-* To see logs on heroku
-```
-heroku logs
-```
-* To restart dyno
-```
-heroku restart
 ``` 
 
 ## Ajout persistence mongoDB
