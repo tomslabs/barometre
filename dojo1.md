@@ -18,8 +18,7 @@ heroku login
 ```
 * heroku help 
 ```
-heroku help
-heroku 'command' -h
+heroku help || heroku 'command' -h
 ```
 * open an heroku app in the browser (in an heroku app directory) :
 ```
