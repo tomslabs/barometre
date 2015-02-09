@@ -33,6 +33,11 @@ heroku logs
 heroku restart
 ``` 
 
+* Run heroku locally :
+```
+foreman start web
+```
+
 ##déroulement du dojo :
 
 1 - Generation mood REST API with sailsjs
