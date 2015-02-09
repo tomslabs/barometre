@@ -1,4 +1,4 @@
-#dojo1 Sails REST API on heroku app
+#Sails REST API on heroku app
 
 * Sailjs : http://sailsjs.org/
 * Heroku app : https://www.heroku.com/
