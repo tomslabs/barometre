@@ -60,8 +60,12 @@ attributes: {
     }
   }
   ```
-* set migrate mode in config/models.js
-
-  
-
+* set migrate mode in config/models.js 
+```
+git add . && git commit -m 'Set migrate mode'
+```
+* deploy :  
+```
+git push heroku master
+```
 
