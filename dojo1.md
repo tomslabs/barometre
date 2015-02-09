@@ -3,7 +3,7 @@
 * Sailjs : http://sailsjs.org/
 * Heroku app : https://www.heroku.com/
 
-#Pre-requis :
+##Pre-requis :
 * nodejs + npm cf : http://sailsjs.org/#/getStarted
 * Run this from your terminal:
 * Please ensure that you have Ruby installed.
@@ -11,7 +11,7 @@
 wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
 ```
 
-#déroulement du dojo :
+##déroulement du dojo :
 
 1 - Generation mood REST API with sailsjs
 * add sails dependencie  : 
