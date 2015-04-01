@@ -25,3 +25,6 @@ yo webapp
 ```
 grunt serve
 ```
+
+###REST API to consume
+https://purch-barometre.herokuapp.com/mood
