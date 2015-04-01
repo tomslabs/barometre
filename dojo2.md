@@ -1,11 +1,13 @@
 #Webapp creation consuming REST API created in dojo1
 
-Nodejs : https://nodejs.org/
-Yeoman (Skeleton generator) : http://yeoman.io/
-Grunt (NodeJS task manager) : http://gruntjs.com/
-Bower (Frontend dependencies manager) : http://bower.io/
-Bootstrap (Twitter frontend framework) : http://getbootstrap.com/
-Sass (css Pre-Processing language) : http://sass-lang.com/
+What we will use in this dojo :
+* Nodejs : https://nodejs.org/
+* Yeoman (Skeleton generator) : http://yeoman.io/
+* Grunt (NodeJS task manager) : http://gruntjs.com/
+* Bower (Frontend dependencies manager) : http://bower.io/
+* Bootstrap (Twitter frontend framework) : http://getbootstrap.com/
+* Sass (css Pre-Processing language) : http://sass-lang.com/
+* https://jquery.com/
 
 ##Pre-requis : 
 * nodejs + npm 
