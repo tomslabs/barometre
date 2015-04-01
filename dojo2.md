@@ -7,7 +7,7 @@ What we will use in this dojo :
 * Bower (Frontend dependencies manager) : http://bower.io/
 * Bootstrap (Twitter frontend framework) : http://getbootstrap.com/
 * Sass (css Pre-Processing language) : http://sass-lang.com/
-* https://jquery.com/
+* jQuery (Javascript library) https://jquery.com/
 
 ##Pre-requis : 
 * nodejs + npm 
