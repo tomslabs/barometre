@@ -30,7 +30,7 @@ grunt serve
 https://purch-barometre.herokuapp.com/mood
 
 ###Create Mood submission form
-```
+```html
 <form action="https://purch-barometre.herokuapp.com/mood" method="POST">
     <div class="form-group">
         <label for="email-input">Adresse email</label>
@@ -46,7 +46,7 @@ https://purch-barometre.herokuapp.com/mood
 ```
 
 ###Create Mood list table
-```
+```html
 <table class="table table-striped table-responsive">
     <thead>
       <th>Email</th>
@@ -60,7 +60,7 @@ https://purch-barometre.herokuapp.com/mood
 ```
 
 ###Create JavaScript Code to post and reload mood from API
-```
+```javascript
 var updateMoods = function () {
     $.ajax({
         url: 'https://purch-barometre.herokuapp.com/mood'
